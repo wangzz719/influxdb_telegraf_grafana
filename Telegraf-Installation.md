@@ -1,4 +1,4 @@
-# Telegraf
+# Telegraf Installation
 ## Install Telegraf V1.3.5
 ### OS X (via Homebrew)
 ```
