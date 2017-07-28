@@ -28,6 +28,12 @@ tar xvfz telegraf-1.3.5_linux_amd64.tar.gz
 ```
 For more install instruction see: https://portal.influxdata.com/downloads
 ```
+## Configure Influxdb
+```
+vim /etc/telegraf/telegraf.conf
+```
+Modify the infuxdb urls configuration in `[[outputs.influxdb]]`, use your own influxdb.
+
 ## Start Telegraf Service
 ```
 systemctl start telegraf.service
