@@ -1,4 +1,4 @@
-# Influxdb
+# Influxdb Installation
 ## Install Influxdb V1.3.1
 ### OS X (via Homebrew)
 ```
