@@ -36,6 +36,6 @@ systemctl start influxdb.service
 ```
 You can edit `/etc/influxdb/influxdb.conf` to use coustom configuration.
 
-## 安装 telegraf
+# telegraf
 
-## 安装 grafana
+# grafana
