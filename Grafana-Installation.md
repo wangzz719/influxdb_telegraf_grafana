@@ -1,4 +1,4 @@
-# Grafana
+# Grafana Installation
 ## Install Grafana V4.4.1
 ### OS X (via Homebrew)
 ```
